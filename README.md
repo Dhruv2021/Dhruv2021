@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhruv2021
-- 👀 I’m interested in Full stack developers
+- 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on VS code
 - 📫 How to reach me Gmail-uniteddevelopers7@gmail.com
